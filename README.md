@@ -21,3 +21,15 @@ tests @alibaba afgfgda @jdoe a a a aaaaaa aa
 Roses are red
 Violets are blue
 
+1. Clone the repository
+```
+git clone git@example.com:project-name.git
+```
+2. Create a branch for your feature
+```
+git checkout -b [feature-name]
+```
+3. Write code. Add and Commit changes
+
+
+
