@@ -37,3 +37,6 @@ The only restrictions are that block-level HTML elements -- e.g. `<div>
 <pre>`,
 `<table>`, `<pre>`, `<p>`, etc....
 
+The only restrictions are **that block-level HTML elements -- e.g. `<div>`,
+`<table>`,** `<pre>`, `<p>`, etc....
+
