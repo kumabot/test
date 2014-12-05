@@ -33,3 +33,7 @@ git checkout -b [feature-name]
 
 
 
+The only restrictions are that block-level HTML elements -- e.g. `<div>
+<pre>`,
+`<table>`, `<pre>`, `<p>`, etc....
+
