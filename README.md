@@ -1,8 +1,8 @@
 test
 ====
 
-aaaa  jdoe@example.com  aaaa.
-bbbb  jdoe@example.com  bbbb  
+aa**aa  jdoe@example.com  aaaa.
+bb**bb  jdoe@example.com  bbbb  
 cccc  jdoe@example.com  cccc
 dddd  eeee
 
