@@ -40,3 +40,14 @@ The only restrictions are that block-level HTML elements -- e.g. `<div>
 The only restrictions are **that block-level HTML elements -- e.g. `<div>`,
 `<table>`,** `<pre>`, `<p>`, etc....
 
+
+* foobar1
+  * foobar2
+      ```
+      code block
+      ```
+  * foobar3
+* foobar4
+
+* Start a line with a star
+* Profit!
